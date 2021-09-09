@@ -1,4 +1,4 @@
-# tcp-ping-app
+# TCP Pinging
 
 Project made in context of an employment selection procedure at one Croatian IT company. Developed in Java SE, application functionality is pinging between two computers. 
 
