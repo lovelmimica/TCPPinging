@@ -1,4 +1,5 @@
 # tcp-ping-app
-Project made in context of selection procedure in one Croatian company. 
 
-The main functionality of app is providing enriched pinging between two computers (which includes printing of statistics and watching for nonresponded messages) , connected via sockets. 
+Project made in context of an employment selection procedure at one Croatian IT company. Developed in Java SE, application functionality is pinging between two computers. 
+
+A feature of pinging is implemented through sockets, and includes printing of related statistics, and watching for non - responded messages. 
